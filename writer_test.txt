@@ -1,0 +1,7 @@
+This program records each student's midterm and final exam scores in scores.txt.
+Enter each student's name (one word), then the two scores (0-100).
+Enter 'quit' as a name when you are finished.
+
+Student name (or 'quit'):   Midterm exam score for Alice:   Final exam score for Alice: Student name (or 'quit'):   Midterm exam score for Bob: Scores must be between 0 and 100.
+  Midterm exam score for Bob:   Final exam score for Bob: Student name (or 'quit'):   Midterm exam score for Cara:   Final exam score for Cara: Student name (or 'quit'): 
+3 student record(s) written to scores.txt

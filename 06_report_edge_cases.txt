@@ -1,0 +1,5 @@
+Input file name? 
+Zero         50.00
+Bad          62.50
+
+Students reported: 2
