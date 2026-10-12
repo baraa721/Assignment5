@@ -1,9 +1,0 @@
-This program records each student's midterm and final exam scores in scores.txt.
-Enter each student's name (one word), then the two scores (0-100).
-Enter 'quit' as a name when you are finished.
-
-Student name (or quit):   Midterm exam score for Zero:   Final exam score for Zero: Student name (or quit):   Midterm exam score for Bad:   Scores must be between 0 and 100.
-  Midterm exam score for Bad:   Scores must be between 0 and 100.
-  Midterm exam score for Bad:   Final exam score for Bad:   Scores must be between 0 and 100.
-  Final exam score for Bad: Student name (or quit): 
-2 student record(s) written to scores.txt
